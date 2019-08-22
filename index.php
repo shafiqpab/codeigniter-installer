@@ -4,7 +4,7 @@ error_reporting(0); //Setting this to E_ALL showed that that cause of not redire
 
 $db_config_path = '../application/config/database.php';
 
-// Only load the classes in case the user submitted the form
+// Only load the classes in case the user submitted the form 
 if($_POST) {
 
 	// Load the classes and create the new objects

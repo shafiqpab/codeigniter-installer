@@ -1,4 +1,4 @@
-CodeIgniter Installer
+CodeIgniter Installer :)
 ======================
 
 General Information
